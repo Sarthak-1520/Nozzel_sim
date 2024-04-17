@@ -53,7 +53,7 @@ conda activate cone-fitting
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/3d-cone-surface-fitting.git
+git clone https://github.com/Sarthak-1520/Nozzel_sim.git
 ```
 Navigate to the repository directory:
 
