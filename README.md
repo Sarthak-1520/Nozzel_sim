@@ -58,7 +58,7 @@ git clone https://github.com/Sarthak-1520/Nozzel_sim.git
 Navigate to the repository directory:
 
 ```bash
-cd 3d-cone-surface-fitting
+cd Nozzel_sim
 ```
 Usage
 Launch Jupyter Notebook:
